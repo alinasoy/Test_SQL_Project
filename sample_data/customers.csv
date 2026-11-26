@@ -1,0 +1,31 @@
+customer_id,customer_name,country,city,segment
+1,Customer 1,UK,Manchester,Corporate
+2,Customer 2,USA,New York,Online
+3,Customer 3,UK,London,Retail
+4,Customer 4,UK,Manchester,Retail
+5,Customer 5,India,Bengaluru,Online
+6,Customer 6,UK,Manchester,Online
+7,Customer 7,USA,Seattle,Retail
+8,Customer 8,India,Bengaluru,Retail
+9,Customer 9,USA,New York,Online
+10,Customer 10,India,Chennai,Corporate
+11,Customer 11,UK,London,Online
+12,Customer 12,USA,Seattle,Corporate
+13,Customer 13,UK,London,Online
+14,Customer 14,India,Chennai,Online
+15,Customer 15,Germany,Munich,Online
+16,Customer 16,India,Delhi,Corporate
+17,Customer 17,USA,Seattle,Corporate
+18,Customer 18,India,Bengaluru,Online
+19,Customer 19,India,Chennai,Retail
+20,Customer 20,Germany,Munich,Retail
+21,Customer 21,India,Bengaluru,Retail
+22,Customer 22,USA,New York,Corporate
+23,Customer 23,UK,Manchester,Corporate
+24,Customer 24,India,Mumbai,Online
+25,Customer 25,Germany,Munich,Retail
+26,Customer 26,Germany,Munich,Retail
+27,Customer 27,UK,London,Retail
+28,Customer 28,USA,Seattle,Retail
+29,Customer 29,India,Bengaluru,Corporate
+30,Customer 30,UK,London,Online

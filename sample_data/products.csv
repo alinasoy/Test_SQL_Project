@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Phone X,Phones,500,320
+2,Phone Pro,Phones,750,480
+3,Laptop Air,Laptops,1100,780
+4,Laptop Max,Laptops,1700,1250
+5,Earbuds,Audio,80,45
+6,Headphones,Audio,160,95
+7,Tablet Mini,Tablets,350,230
+8,Tablet Plus,Tablets,550,370
+9,Smart Watch,Wearables,220,130
+10,Speaker,Audio,120,70

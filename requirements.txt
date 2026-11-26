@@ -1,0 +1,12 @@
+streamlit>=1.40
+pandas
+sqlalchemy>=2.0
+pymysql
+cryptography
+psycopg2-binary
+openpyxl
+langchain-core
+langchain-google-genai
+langchain-groq
+langchain-openai
+python-dotenv
