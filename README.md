@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ask Your Data
 Chat with MySQL / PostgreSQL / SQLite databases or CSV/Excel files in plain English.
 
@@ -25,3 +26,6 @@ Chat with MySQL / PostgreSQL / SQLite databases or CSV/Excel files in plain Engl
 2. Restart the app. The sidebar shows "API key loaded from server settings".
 3. On Streamlit Community Cloud: App -> Settings -> Secrets -> paste the same lines.
 `.gitignore` already excludes both files so your keys never reach GitHub.
+=======
+# Test_SQL_Project
+>>>>>>> b038efe9c51c23dab1d2c1cf2a9e86123e190eb6
